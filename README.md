@@ -8,3 +8,9 @@
  4. 随着时间的增长，服药时日常注意事项会越来越模糊
  
  所以特别制作一个这个app用来提醒自己
+ 
+华为mate20 
+width=1080, height=2265, density=3.0, desnsityDpi=480, screenWidth=360, screenHeight=755
+
+Pixel xl
+width=1440, height=2392, density=3.5, desnsityDpi=560, screenWidth=411, screenHeight=683
