@@ -2,22 +2,22 @@ package cn.peterkang.krishna.cn.peterkang.krishna.utility.entity;
 
 public class DeviceInfoEntity {
     // 屏幕宽度
-    Integer width;
+    private Integer width;
 
     // 屏幕高度
-    Integer height;
+    private Integer height;
 
     // 屏幕密度
-    Float density;
+    private Float density;
 
     // 屏幕密度Dpi
-    Integer desnsityDpi;
+    private Integer desnsityDpi;
 
     // 屏幕宽度DP
-    Integer screenWidth;
+    private Integer screenWidth;
 
     // 屏幕高度DP
-    Integer screenHeight;
+    private Integer screenHeight;
 
 
     @Override
